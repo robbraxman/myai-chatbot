@@ -2,7 +2,7 @@
 ******************************************************************
 MY AI - Author: Rob Braxman
 (c) Copyright Braxmobile 20204
-Open Source MIT License
+License GPL 3.0
 ******************************************************************
 
 '''
