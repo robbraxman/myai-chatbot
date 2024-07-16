@@ -26,3 +26,10 @@ ollama pull dolphin-llama3
 ```
 
 You can browse [the Ollama library](https://ollama.com/library) for more models.
+
+## Running the program
+```bash
+python3 my-ai.py
+```
+
+And proceed to follow instructions.
