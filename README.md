@@ -2,6 +2,7 @@
 # Prerequisites
 1. Pre-install Ollama from Ollama.ai and pre-load your desired models.
 2. Then edit the my-ai.py file to include the models you want to use.
+3. Run the software on your terminal
 
 ## Pre-installing Ollama
 Install these from the command line.
