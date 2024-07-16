@@ -1,5 +1,5 @@
 
-# Prerequisites
+# How to Use Your Local AI
 1. Pre-install Ollama from Ollama.ai and pre-load your desired models.
 2. Then edit the my-ai.py file to include the models you want to use.
 3. Run the software on your terminal
