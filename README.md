@@ -32,6 +32,13 @@ You can browse [the Ollama library](https://ollama.com/library) for more models.
 You will not be able to use a model size larger than your available RAM.
 I.e. if you have 32GB of RAM, but you're using 16GB (50%) of it for other tasks, say a few browser windows with multiple tabs, a couple of apps, and running VS Code, then you can only use a model that is under 16GB.
 
+### Running a large model
+If your model takes up a significant portion of your available RAM, it will operate quite slowly. 
+
+I.e. a 10GB model on a 16GB RAM computer that only has 12GB open will run, but will take a couple minutes to complete each prompt.
+
+Having or setting up a private dedicated server (preferably offline to keep this local) would be ideal.
+
 ## Running the program
 ```bash
 python3 my-ai.py
