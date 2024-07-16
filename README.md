@@ -30,7 +30,7 @@ You can browse [the Ollama library](https://ollama.com/library) for more models.
 
 ### Note regarding model sizes
 You will not be able to use a model size larger than your available RAM.
-I.e. if you have 32GB of RAM, but you're using 16GB (50%) of it for other tasks, say brower, a couple apps, and VS Code, then you can only use a model that is under 16GB.
+I.e. if you have 32GB of RAM, but you're using 16GB (50%) of it for other tasks, say a few browser windows with multiple tabs, a couple of apps, and running VS Code, then you can only use a model that is under 16GB.
 
 ## Running the program
 ```bash
